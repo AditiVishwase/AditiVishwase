@@ -33,11 +33,10 @@ Dnyaan Prasad Global University, School of Technology & Research, Pune
 | **Web & Mobile**          | HTML, CSS, React Native, Expo                                                 |
 | **Backend & APIs**        | FastAPI, REST APIs                                                            |
 | **AI/ML**                 | Machine Learning, Computer Vision, YOLOv8, OpenCV                             |
-| **Python Tools**          | NumPy, Pandas, Matplotlib, Streamlit                                          |
-| **Networking**            | MQTT, OpenWrt, BATMAN-adv                                                     |
+| **Python Tools**          | NumPy, Pandas, Matplotlib, Streamlit                                          |                                                   |
 | **Robotics & Navigation** | YDLIDAR X2, 2D LiDAR, SLAM                                                    |
 | **Tools**                 | Git, GitHub, VS Code                                                          |
-| **Core CS**               | Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems |
+| **Core CS**               | Data Structures & Algorithms, OOP |
 
 ---
 
@@ -48,7 +47,6 @@ Dnyaan Prasad Global University, School of Technology & Research, Pune
 | **SAIROS**             | AI / Robotics / Mine Safety | Python, YOLOv8, OpenCV, MQTT, OpenWrt, BATMAN-adv, YDLIDAR X2 | AI-powered underground mine safety, monitoring and rescue system |
 | **FactCheckr**         | AI / Mobile Development     | React Native, Expo, FastAPI, Python                           | Mobile application for structured news verification              |
 | **PitchLite**          | Generative AI / Web         | Python, JavaScript, AI APIs                                   | AI-powered pitch generation platform                             |
-| **AI Placement Coach** | AI / Education              | Python, Streamlit, Google ADK                                 | AI-assisted placement preparation                                |
 | **Personal Portfolio** | Web Development             | HTML, CSS, JavaScript                                         | Responsive portfolio website                                     |
 
 ---
@@ -139,29 +137,6 @@ PitchLite is an AI-powered application designed to help users generate and prese
 <details>
 <summary>🤖 <b>AI Placement Coach</b></summary>
 
-### Overview
-
-An AI-assisted application designed to support students during placement preparation.
-
-### Technologies
-
-* Python
-* Streamlit
-* Google ADK
-* Gemini
-
-### Key Features
-
-* AI-assisted placement preparation
-* Interactive interface
-* AI-based guidance and responses
-
-</details>
-
----
-
-<details>
-<summary>🌐 <b>Personal Portfolio Website</b></summary>
 
 ### Overview
 
