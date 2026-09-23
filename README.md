@@ -29,13 +29,13 @@ I enjoy exploring new technologies, participating in hackathons, solving technic
 
 | Category                  | Technologies                                                                  |
 | ------------------------- | ----------------------------------------------------------------------------- |
-| **Languages**             | Python, C++, JavaScript, SQL                                                  |
+| **Languages**             | Python, C++                                                 |
 | **Web & Mobile**          | HTML, CSS, React Native, Expo                                                 |
 | **Backend & APIs**        | FastAPI, REST APIs                                                            |
 | **AI/ML**                 | Machine Learning, Computer Vision, YOLOv8, OpenCV                             |
 | **Python Tools**          | NumPy, Pandas,                                                                |                                                                                   
 | **Tools**                 | Git, GitHub, VS Code                                                          |
-| **Core CS**               | Data Structures & Algorithms, OOP |
+| **Core CS**               | Basic Data Structures & Algorithms, OOP |
 
 ---
 
