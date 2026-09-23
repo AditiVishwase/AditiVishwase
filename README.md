@@ -10,7 +10,7 @@
 
 Hi, I'm **Aditi Vishwase**, a B.Tech Computer Science & Engineering student at **Dnyaan Prasad Global University, Pune** with a strong interest in **AI/ML, Web Development, Computer Vision, and intelligent systems**.
 
-I enjoy learning by building practical projects using **Python, C++, JavaScript, React Native, FastAPI, and Computer Vision**. I am currently working on **SAIROS**, an AI-powered underground mine safety, monitoring, and rescue system.
+I enjoy learning by building practical projects using **Python, C++, JavaScript, React Native, FastAPI, and Computer Vision**. 
 
 I enjoy exploring new technologies, participating in hackathons, solving technical problems, and turning ideas into practical solutions.
 
@@ -18,10 +18,10 @@ I enjoy exploring new technologies, participating in hackathons, solving technic
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
-Dnyaan Prasad Global University, School of Technology & Research, Pune
-**2025 – 2029**
-**CGPA: 9.52 / 10**
+🎓 **B.Tech CSE & Technology — DPGU** | **9.52 CGPA** | 2025–2029
+📚 **12th — ASM Geeta Mata Junior College** | **70%** | 2023–2025
+🏫 **10th — A.S.A.R.ENG Med School** | **92%** | Pune
+
 
 ---
 
@@ -33,8 +33,7 @@ Dnyaan Prasad Global University, School of Technology & Research, Pune
 | **Web & Mobile**          | HTML, CSS, React Native, Expo                                                 |
 | **Backend & APIs**        | FastAPI, REST APIs                                                            |
 | **AI/ML**                 | Machine Learning, Computer Vision, YOLOv8, OpenCV                             |
-| **Python Tools**          | NumPy, Pandas, Matplotlib, Streamlit                                          |                                                   |
-| **Robotics & Navigation** | YDLIDAR X2, 2D LiDAR, SLAM                                                    |
+| **Python Tools**          | NumPy, Pandas,                                                                |                                                                                   
 | **Tools**                 | Git, GitHub, VS Code                                                          |
 | **Core CS**               | Data Structures & Algorithms, OOP |
 
